@@ -1,1 +1,3 @@
+# Transferencia de votos entre las Elecciones Generales del 23 de julio y las Elecciones Autonómicas del 18 de febrero en Galicia
 
+Esta noticia detalla los resultados obtenidos a través del modelo matemático que he desarrollado. El modelo se enfoca en la estimación de probabilidades condicionales y conjuntas mediante el análisis de tablas de contingencia basadas exclusivamente en sus marginales. El objetivo principal es predecir las probabilidades de transferencia de votos entre distintas opciones políticas durante el periodo que abarca desde las Elecciones Generales del 23 de julio hasta las Elecciones Autonómicas del 18 de febrero en Galicia.
